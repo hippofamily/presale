@@ -1,0 +1,17 @@
+{
+    "program": {
+        "uuid": "GbtkC7",
+        "config": "GbtkC7Qt7U9jwSQangUcVCGjxB83FmihDZcKdqsppNWo",
+        "create_candy_machine" : "Ept15xL5nkXkke11v9doa5MUpFH2ycKrAeqcvBrfcXbH",
+        "set_start_date" : 1631714400
+
+        2DeLZXQYxruFmgfJSwbURfkn6rRuFpoJ5Wt3yEsLskiDstfp2VeQCnvaYdcbRWGsw3ZYVD4GQEJrhhWgWTuyvg6U
+    },
+    "items": {
+        "0": {
+            "link": "https://arweave.net/MtKzJwk1F8syK_17rWy8JZ-M7jiOUf74bjTjqflQSJ8",
+            "name": "HippoFamily #0",
+            "onChain": true
+        }
+    }
+}

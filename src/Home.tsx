@@ -19,13 +19,43 @@ import {
   shortenAddress,
 } from "./candy-machine";
 
-const ConnectButton = styled(WalletDialogButton)``;
+const ConnectButton = styled(WalletDialogButton)`
+font-family: "Balsamiq Sans";
+text-transform: uppercase;
+color: #fff;
+background-color: #5ca9fb;
+background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+padding: 14px 34px;
+letter-spacing: 1px;
+margin: 0;
+font-size: 48px;
+font-weight: 500;
+border-radius: 25px;
+transition: all 0.5s linear;
+border: 0;
+`;
 
-const CounterText = styled.span``; // add your styles here
+const CounterText = styled.span`
 
-const MintContainer = styled.div``; // add your styles here
+`; // add your styles here
 
-const MintButton = styled(Button)``; // add your styles here
+const MintContainer = styled.div`
+`; // add your styles here
+
+const MintButton = styled(Button)`
+font-family: "Balsamiq Sans";
+text-transform: uppercase;
+color: #fff;
+background-color: #5ca9fb;
+background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+padding: 14px 34px;
+letter-spacing: 1px;
+margin: 0;
+font-size: 48px;
+font-weight: 500;
+border-radius: 25px;
+transition: all 0.5s linear;
+border: 0;`; // add your styles here
 
 export interface HomeProps {
   candyMachineId: anchor.web3.PublicKey;

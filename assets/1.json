@@ -1,0 +1,57 @@
+{
+   "name":"HippoFamily #1",
+   "symbol":"",
+   "description":"Uniquely algorithmically generated, cute and collectible Hippo Family NFTs that live on the Solana",
+   "seller_fee_basis_points":"300",
+   "image":"https://www.arweave.net/l_KekOTRDRyDQL1nHE_FPEpEwfDjOoqLQwhYHL-aBFk?ext=png",
+   "external_url":"https://hippofamilynft.com",
+   "attributes":[
+      {
+         "trait_type": "Gender",
+         "value": "Male"
+     },
+      {
+         "trait_type": "Background",
+         "value": "Green"
+     },
+     {
+         "trait_type": "Body",
+         "value": "Pink"
+     },
+     {
+         "trait_type": "Eye",
+         "value": "Dizzy"
+     },
+     {
+         "trait_type": "Head",
+         "value": "None"
+     },
+     {
+         "trait_type": "Clothes",
+         "value": "Chef"
+     },
+     {
+         "trait_type": "Mouth",
+         "value": "Single"
+     }
+   ],
+   "collection":{
+      "name":"Hippo Family",
+      "family":"Hippo on Solana"
+   },
+   "properties":{
+      "files":[
+         {
+            "uri":"https://www.arweave.net/l_KekOTRDRyDQL1nHE_FPEpEwfDjOoqLQwhYHL-aBFk?ext=png",
+            "type":"image/png"
+         }
+      ],
+      "category":"image",
+      "creators":[
+         {
+            "address":"GStGPoq1cmx55Q4DibY2oo9ppg9GqTAcZqETdhJGRxYk",
+            "share":100
+         }
+      ]
+   }
+}
