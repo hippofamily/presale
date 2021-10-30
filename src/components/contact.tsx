@@ -16,17 +16,17 @@ export const Contact = () => {
               <div className="social">
                 <ul>
                   <li>
-                    <a href="https://discord.gg/sk3xN3sA8D" target="_blank">
-                    <img src="img/discord-icon.png" alt="" width="64px" height="64px"/>
+                    <a href="https://discord.gg/sk3xN3sA8D" target="_blank" rel="noopener noreferrer" >
+                    <img src="img/discord-icon.png"  alt="" width="64px" height="64px"/>
                     </a>
                   </li>
                   <li>
-                    <a href="https://twitter.com/HippoFamilyNFT" target="_blank">
+                    <a href="https://twitter.com/HippoFamilyNFT" target="_blank" rel="noopener noreferrer">  
                     <img src="img/twitter-icon.png" alt="" width="64px" height="64px"/>
                     </a>
                   </li>
                   <li>
-                    <a href="https://instagram.com/hippofamilynft" target="_blank">
+                    <a href="https://instagram.com/hippofamilynft" target="_blank" rel="noopener noreferrer" >
                     <img src="img/instagram-icon.png" alt="" width="64px" height="64px"/>
                     </a>
                   </li>

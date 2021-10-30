@@ -1,57 +1,65 @@
 {
-   "name":"HippoFamily #0",
-   "symbol":"",
-   "description":"Uniquely algorithmically generated, cute and collectible Hippo Family NFTs that live on the Solana",
-   "seller_fee_basis_points":"300",
-   "image":"https://www.arweave.net/WFI5lIxOd1JMRImmGnNLZ91XdV2NafL4NIEqCCfUYKo?ext=png",
-   "external_url":"https://hippofamilynft.com",
-   "attributes":[
-      {
-         "trait_type":"Gender",
-         "value":"Male"
-      },   
-      {
-         "trait_type":"Background",
-         "value":"Solana"
-      },
-      {
-         "trait_type":"Body",
-         "value":"Dark Grey"
-      },
-      {
-         "trait_type":"Eye",
-         "value":"Dollar Glasss"
-      },
-      {
-         "trait_type":"Mouth",
-         "value":"Cigarette"
-      },
-      {
-         "trait_type":"Head",
-         "value":"Cowboy Hat"
-      },
-      {
-         "trait_type":"Clothes",
-         "value":"Suit"
-      }
-   ],
-   "collection":{
-      "name":"Hippo Family",
-      "family":"Hippo on Solana"
-   },
-   "properties":{
-      "files":[
+    "name": "HippoFamily #0",
+    "symbol": "",
+    "description": "1,500 cute and collectible Hippo Family NFTs that live on the Solana",
+    "seller_fee_basis_points": "500",
+    "image": "https://www.arweave.net/8iZ96FfYEytLWx2AxJ8eajTzErYSi5f1WJct6mXdvd8?ext=png",
+    "external_url": "https://hippofamilynft.com",
+    "attributes": [
+        {
+            "trait_type":"Gender",
+            "value":"Male"
+         },   
          {
-            "uri":"https://www.arweave.net/WFI5lIxOd1JMRImmGnNLZ91XdV2NafL4NIEqCCfUYKo?ext=png",
-            "type":"image/png"
-         }
-      ],
-      "category":"image",
-      "creators":[
+            "trait_type":"Background",
+            "value":"Solana"
+         },
          {
-            "address":"GStGPoq1cmx55Q4DibY2oo9ppg9GqTAcZqETdhJGRxYk",
-            "share":100
+            "trait_type":"Body",
+            "value":"Dark Grey"
+         },
+         {
+            "trait_type":"Eye",
+            "value":"Dollar Glasss"
+         },
+         {
+            "trait_type":"Mouth",
+            "value":"Cigarette"
+         },
+         {
+            "trait_type":"Head",
+            "value":"Cowboy Hat"
+         },
+         {
+            "trait_type":"Clothes",
+            "value":"Suit"
          }
-      ]
-   }
+    ],
+    "collection": {
+        "name": "Hippo Family",
+        "family": "Hippo on Solana"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.arweave.net/8iZ96FfYEytLWx2AxJ8eajTzErYSi5f1WJct6mXdvd8?ext=png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "HZRNiy31ghEf458of66tGif681vdEsanJXojLaWhDXEH",
+                "share": 50
+            },
+            {
+                "address": "GStGPoq1cmx55Q4DibY2oo9ppg9GqTAcZqETdhJGRxYk",
+                "share": 10
+            },
+            {
+                "address": "7XEX9DxKnmkFryL6bG8aViXurhcoUmaLWP3DAbqQgd3Z",
+                "share": 40
+            }
+        ]
+    }
 }

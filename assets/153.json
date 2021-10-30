@@ -1,0 +1,68 @@
+{
+    "dna": "0018871",
+    "edition": 153,
+    "date": 1634917738824,
+    "name": "HippoFamily #153",
+    "symbol": "",
+    "description": "1,500 cute and collectible Hippo Family NFTs that live on the Solana",
+    "seller_fee_basis_points": "500",
+    "image": "https://www.arweave.net/YrtqXJZchBd4IdKi9OmLQnO5aaC6OLNA-JZrLTiAoIU?ext=png",
+    "external_url": "https://hippofamilynft.com",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Chocho"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Happy"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Retro"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pajamas"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Double"
+        }
+    ],
+    "collection": {
+        "name": "Hippo Family",
+        "family": "Hippo on Solana"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.arweave.net/YrtqXJZchBd4IdKi9OmLQnO5aaC6OLNA-JZrLTiAoIU?ext=png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "HZRNiy31ghEf458of66tGif681vdEsanJXojLaWhDXEH",
+                "share": 50
+            },
+            {
+                "address": "GStGPoq1cmx55Q4DibY2oo9ppg9GqTAcZqETdhJGRxYk",
+                "share": 10
+            },
+            {
+                "address": "7XEX9DxKnmkFryL6bG8aViXurhcoUmaLWP3DAbqQgd3Z",
+                "share": 40
+            }
+        ]
+    }
+}

@@ -75,7 +75,7 @@ const Header = () => {
                             />
                           </WalletDialogProvider>
                         </WalletProvider>
-                      </ConnectionProvider>
+                      </ConnectionProvider> 
                     </div>
 
                     <div className="col-xs-2 col-md-4 intro-text">

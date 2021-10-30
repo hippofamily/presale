@@ -43,6 +43,7 @@ h5 {
     align-items: inherit;
     justify-content: inherit;
     color: #fff;
+    font-size: 18px;
 }
 
 .MuiTypography-h6 {
@@ -188,7 +189,7 @@ hr {
   padding: 14px 34px;
   letter-spacing: 1px;
   margin: 0;
-  font-size: 15px;
+  font-size: 24px;
   font-weight: 500;
   border-radius: 25px;
   transition: all 0.5s linear;
@@ -256,7 +257,7 @@ a:focus,
   margin-bottom: 10px;
 }
 header .intro-text {
-  padding-top: 350px;
+  padding-top: 250px;
   padding-bottom: 200px;
   text-align: center;
   margin-left: 50px;

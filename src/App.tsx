@@ -8,18 +8,14 @@ import Roadmap from "./components/roadmap";
 import "./App.css";
 
 const App = () => {
-  const [landingPageData, setLandingPageData] = useState({});
+  const [] = useState({});
   useEffect(() => {
   }, []);
 
   return (
     <div>
-      <Navbar />
+
       <Header />
-      <About/>
-      <Roadmap />
-      <Faq />
-      <Contact />
     </div>
   );
 };
